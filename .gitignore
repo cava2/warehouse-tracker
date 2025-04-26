@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+# Expo
+.expo/
+# Python env
+venv/
+__pycache__/
+# environment files
+.env
